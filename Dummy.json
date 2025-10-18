@@ -1,0 +1,18 @@
+{
+  "dummyInfo": [
+    {
+      "id": "01",
+      "name": "Asmath",
+      "course": "Java",
+      "email": "example@gmail.com",
+      "contact": "1234567890"
+    },
+    {
+      "id": "02",
+      "name": "Irfan",
+      "course": "Java",
+      "email": "example@gmail.com",
+      "contact": "1234567890"
+    }
+  ]
+}
